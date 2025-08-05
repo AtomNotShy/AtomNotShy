@@ -15,7 +15,7 @@
 - 👀 I ’m interest in C++, Python, Java, server development, database, computer network, operating system, AI, etc.
 - 🌱 I’m currently leanding www.tbbid.top, working as CTO&full stack engineer.
 - 📫 How to reach me? Email: zhoutong7979@gmail.com
-
+- ⚡ Want to know me more [Resume](https://github.com/AtomNotShy/AtomNotShy/wiki)
 <!--
 **AtomNotShy/AtomNotShy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
