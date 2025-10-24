@@ -12,7 +12,7 @@
 ## Hi! Nice to meet you!
 
 <!-- 个人简介 -->
-- 👀 I ’m interest in C++, Python, Java, server development, database, computer network, operating system, AI, etc.
+- 👀 I’m interested in C++, Python, Java, server development, database, computer network, operating system, AI, etc.
 - 🌱 I’m currently leanding www.tbbid.top, working as CTO&full stack engineer.
 - 📫 How to reach me? Email: zhoutong7979@gmail.com
 - ⚡ Want to know me more [Resume](https://github.com/AtomNotShy/AtomNotShy/wiki)
